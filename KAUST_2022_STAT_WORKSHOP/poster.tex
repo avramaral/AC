@@ -1,0 +1,126 @@
+\documentclass[12pt]{beamer}
+
+\usepackage[size = custom, width = 140, height = 73, scale = 1.75]{beamerposter}
+
+\usefonttheme{serif}
+
+\usepackage[english]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{indentfirst}
+\usepackage{ragged2e}
+\usepackage[]{natbib} 
+\usepackage{graphicx}
+\usepackage{animate}
+\usepackage{color}
+\usepackage{colortbl}
+
+% For 'InkScape' integration
+\usepackage{import}
+\usepackage{xifthen}
+\usepackage{pdfpages}
+\usepackage{transparent}
+
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{caption}[numbered]
+
+\definecolor{title-bg}{RGB}{240, 240, 240}
+\definecolor{title-fg}{RGB}{128, 113, 93}
+\definecolor{my-red}{RGB}{254, 132, 135}
+\definecolor{my-blue}{RGB}{59, 180, 252}
+\definecolor{my-green}{RGB}{125, 221, 149}
+\definecolor{titles}{RGB}{0, 166, 160}
+\setbeamercolor{block title}{fg = title-fg, bg = title-bg}
+\setbeamercolor{header-color}{fg = title-fg, bg = title-bg}
+
+\setbeamertemplate{headline}{%
+\begin{beamercolorbox}[wd=1.00\textwidth]{header-color}
+	\begin{columns}[T]
+		\begin{column}{0.235\textwidth}
+			\includegraphics[width=1.15\linewidth]{Images/KAUST_logo} 
+		\end{column}
+		\begin{column}{0.630\textwidth}
+			\vspace{32pt}
+			\begin{beamercolorbox}[wd=1.00\textwidth]{header-color}	
+			{\Large Extended Excess Hazard Model for Spatially Dependent Survival Data with Applications to Cancer Research \par} \vspace{15pt}
+			
+			{\normalsize
+				André Victor Ribeiro Amaral${\phantom{|}}^{1, \star}$, 
+				Francisco Javier Rubio${\phantom{|}}^{2}$,  and 
+				Paula Moraga${\phantom{|}}^{1}$
+			}	\vspace{12pt}
+		
+			{\footnotesize
+			${}^{1}\hspace{8pt}$Computer, Electrical and Mathematical Sciences and Engineering Division, King Abdullah University of Science and Technology (KAUST).  \\ \vspace{3pt}
+			${}^{2}\hspace{8pt}$Department of Statistical Science, University College London (UCL).  \\ \vspace{6pt}
+			${}^{\star}$ E-mail: \texttt{andre.ribeiroamaral@kaust.edu.sa}
+			}
+			\end{beamercolorbox}
+			\vspace{3pt}
+		\end{column}
+		\begin{column}{0.15\textwidth}
+		\vspace{25pt}
+		\includegraphics[width=0.85\linewidth]{Images/GeoHealth_logo}
+		\end{column}
+	\end{columns}
+\end{beamercolorbox}
+}
+\setbeamertemplate{footline}{}
+
+\begin{document}
+	\begin{frame}[t]
+		\begin{columns}[t]
+			%======================================== FIRST COLUMN ========================================
+			\begin{column}{0.30\textwidth} \justifying % FIRST COLUMN
+			\begin{block}{\Large 1. Introduction} \justifying \vspace{12pt}				
+			
+			TBD.
+				
+			\vspace{18pt}
+			
+			\end{block}
+			
+			\end{column}
+		
+			%======================================== SECOND COLUMN ========================================
+			\begin{column}{0.30\textwidth} \justifying % SECOND COLUMN
+			
+			{\large \textcolor{title-fg}{Subsection}} \vspace{18pt}
+			
+			TBD
+			
+			\vspace{18pt}
+			
+			\end{column}
+		
+			%======================================== THIRD COLUMN ========================================
+			\begin{column}{0.30\textwidth} \justifying % THIRD COLUMN
+		
+			\begin{block}{\Large 4. Results} \justifying \vspace{12pt}				
+				
+			TBD
+			
+			\vspace{18pt}
+				
+			\end{block}
+		
+			\begin{block}{\Large 5. Conclusions} \justifying \vspace{12pt}				
+				
+			TBD
+
+			\vspace{18pt}
+				
+			\end{block}
+				
+			\begin{block}{References}\justifying \vspace{12pt}\tiny
+				\bibliographystyle{plain}
+				\bibliography{References/References}
+			\end{block}	
+					
+			\end{column}
+		\end{columns}
+	\end{frame}
+
+
+\end{document}
