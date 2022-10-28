@@ -1,3 +1,16 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{besag:1974}
+J.~Besag.
+\newblock Spatial interaction and the statistical analysis of lattice systems.
+\newblock {\em Journal of the Royal Statistical Society: Series B
+  (Methodological)}, 36(2):192--225, 1974.
+
+\bibitem{besag:1991}
+J.~Besag, J.~York, and A.~Mollie.
+\newblock {B}ayesian image restoration, with two applications in spatial
+  statistics.
+\newblock {\em Annals of the Institute of Statistical Mathematics},
+  43(1):1--20, 1991.
 
 \end{thebibliography}
