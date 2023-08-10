@@ -1,5 +1,6 @@
 # Conference Presentations
 
+- `JSM_2023/`: **Talk** at “JSM 2023”. 08/2023. *Model-based Geostatistics under Spatially Varying Preferential Sampling*.
 - `KAUST_2022_STAT_Workshop/`: **Poster** at "KAUST 2022 Workshop on Statistics". 11/2022. *Extended Excess Hazard Model for Spatially Dependent Survival Data with Applications to Cancer Research*.
 - `JSM_2022/`: **Talk** and **poster presentation** at “JSM 2022”. 08/2022. *Integrating Compartment and Point Process Models for Spatio-Temporal Modeling of Infectious Diseases*.
 - `GeoEnv_2022/`: **Talk** at “GeoEnv 2022”. 06/2022. *Spatio-temporal Point Process Compartment Modeling for Infectious Diseases*.
