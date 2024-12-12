@@ -1,5 +1,6 @@
 # Conference Presentations
 
+- `METMA_XI/`: **Talk** at “METMA XI”. 07/2024. *Navigating Challenges in Spatio-Temporal Modelling of Antarctic Krill Abundance: Addressing Zero-Inflated Data and Misaligned Covariates*.
 - `CEN_2023/`: **Talk** at “CEN 2023”. 09/2023. *Extended Excess Hazard Models for Spatially Dependent Survival Data*.
 - `JSM_2023/`: **Talk** at “JSM 2023”. 08/2023. *Model-based Geostatistics under Spatially Varying Preferential Sampling*.
 - `KAUST_2022_STAT_Workshop/`: **Poster** at "KAUST 2022 Workshop on Statistics". 11/2022. *Extended Excess Hazard Model for Spatially Dependent Survival Data with Applications to Cancer Research*.
